@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    color:black;
+    font-size:15px;
+    
+    margin-left: 2rem;
+    font-family: algerian;
+}
+#button{
+    background-color:black;
+    color:azure;
+    font-size:18px;
+    padding:5px
+}
+  

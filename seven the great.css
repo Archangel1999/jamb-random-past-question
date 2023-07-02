@@ -1,0 +1,42 @@
+
+    solve{
+        font-family: algerian;
+color: white;
+font-size:xxx-large;
+    }
+#smallimg{
+    width: 30px;
+    border-color: rgba(77, 81, 99, 0.664);
+    border-radius: 50%;
+    border-radius: 50px;
+    border-style: outset;
+    border-width: 4px
+}
+#home{
+    font-size:large;
+    font-family: algerain;
+    color: rgb(205, 50, 166);
+}
+#h{
+    font-size: larger;
+    color: aqua;
+}
+#radio{
+    color: chartreuse;
+}
+#lord{
+    background-color: aqua;
+    padding: 0.25em;
+    color: black;
+
+}
+#left{
+    padding: 0,25em;
+    background-color: aqua;
+    font-size: xx-large;
+}
+
+#body{
+     background-image: url('lord1.jpeg');
+     
+ }
